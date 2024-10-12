@@ -1,4 +1,4 @@
-# Lesson-Olivia
+# Trial1-Olivia
 ## Olivia's trial in creating a git hub repository
 - Created a folder and three files initial
 - Made a git initialisation
